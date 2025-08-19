@@ -1,0 +1,15 @@
+div{
+    width: 200px;
+    height: 200px;
+    margin: 80px;
+    background-color: blueviolet;
+}
+
+@media (min-width : 300px) and (max-width:420px){
+    div{
+        background-color: black;
+    }
+
+
+    
+}
